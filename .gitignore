@@ -1,0 +1,14 @@
+# Sistema operativo y editores
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Secretos y configuraciones locales
+.env
+.env.*
+!.env.example
+*.local
+
+# Respaldos locales
+*.tar.gz
