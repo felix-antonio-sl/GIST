@@ -2,7 +2,7 @@
 
 ## Misión
 
-Custodiar una copia de trabajo, trazable y privada de la distribución oficial de la ontología `gist` de Semantic Arts para análisis, modelamiento y futuras extensiones con namespace propio.
+Custodiar una copia de trabajo trazable de la distribución oficial de la ontología `gist` de Semantic Arts para análisis, modelamiento y futuras extensiones con namespace propio.
 
 ## Entrada y autoridad
 
@@ -40,6 +40,6 @@ Comprueba por separado la validez formal de cada serialización con el parser o 
 
 ## Seguridad y entrega
 
-- Mantén este repositorio privado salvo autorización explícita para cambiar su visibilidad.
+- El remoto propio se observó público el 2026-10-12. La decisión del operador de conservar la visibilidad actual prevalece sobre la indicación privada anterior; no cambies la visibilidad sin autorización explícita.
 - No publiques, instales ni modifiques consumidores de gist fuera de este repositorio como parte de una actualización local.
 - Antes de declarar una actualización lista, revisa el diff completo, la licencia, la procedencia y la coherencia de versión entre las tres serializaciones.

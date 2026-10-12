@@ -1,6 +1,10 @@
 # GIST
 
-Repositorio privado de trabajo para la ontología superior empresarial `gist` de Semantic Arts. Esta copia contiene el paquete oficial `gist 14.1.0`, descargado el 10 de septiembre de 2026, con sus serializaciones, documentación y materiales de migración.
+Repositorio de trabajo para la ontología superior empresarial `gist` de Semantic Arts. Esta copia contiene el paquete oficial `gist 14.1.0`, descargado el 10 de septiembre de 2026, con sus serializaciones, documentación y materiales de migración.
+
+**Visibilidad observada el 2026-10-12:** el remoto propio es público. La decisión
+del operador de conservar la visibilidad actual mantiene ese estado; esta
+corrección documental no cambia la configuración de GitHub.
 
 ## Orientación
 
@@ -30,4 +34,4 @@ El paquete fue extraído conservando su estructura. Los archivos bajo `docs/`, `
 
 El material upstream se distribuye bajo [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/); la copia de la licencia está en [`LICENSE.txt`](LICENSE.txt). Mantén la atribución a Semantic Arts y respeta las condiciones indicadas por la fuente: los términos de gist permanecen en su namespace y las extensiones deben usar un namespace propio.
 
-Este repositorio privado contiene la distribución descargada; no es el repositorio upstream ni implica que una modificación local haya sido aceptada por Semantic Arts. Para actualizar la ontología, descarga un nuevo release, conserva su procedencia y revisa el diff de todas las serializaciones antes de sustituir la copia vigente.
+Este repositorio contiene la distribución descargada; no es el repositorio upstream ni implica que una modificación local haya sido aceptada por Semantic Arts. Para actualizar la ontología, descarga un nuevo release, conserva su procedencia y revisa el diff de todas las serializaciones antes de sustituir la copia vigente.
